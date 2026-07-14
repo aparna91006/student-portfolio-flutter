@@ -273,7 +273,7 @@ class ContactMeWidget extends StatelessWidget {
                   SizedBox(width: 10),
                   Expanded(
                     child: Text(
-                      "aparna.ninedot10@gmail.com",
+                      "aparna.ninedot10+githubrepo@gmail.com",
                       style: TextStyle(
                         color: Colors.black87,
                       ),
