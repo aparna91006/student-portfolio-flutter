@@ -14,7 +14,7 @@ A responsive Student Portfolio application built using Flutter.
 - Dart
 
 ## Screenshots
-(Add screenshots here)
+[Will add screenshots later]
 
 ## Getting Started
 
