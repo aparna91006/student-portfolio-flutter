@@ -22,7 +22,7 @@ INTERESTS
 <img width="1259" height="257" alt="image" src="https://github.com/user-attachments/assets/ec68f1cc-2331-496d-92d8-32908fcf82d0" />
 
 
-
+NOTE: The contact section contains sample phone number 
 ## Getting Started
 
 ```bash
